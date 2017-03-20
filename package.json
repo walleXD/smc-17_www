@@ -1,0 +1,20 @@
+{
+  "name": "smc-17_www",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "nuxt": "^0.9.9",
+    "vuetify": "^0.9.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.5.0",
+    "pug": "2.0.0-beta6",
+    "pug-loader": "^2.3.0",
+    "sass-loader": "^6.0.3",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1"
+  },
+  "scripts": {
+    "dev": "nuxt"
+  }
+}
